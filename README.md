@@ -6,3 +6,8 @@ The engineering technology applied for diverse agricultural applications help th
 The classification and detection/localization of plant diseases, help the farmers deal with the health of crops more efficiently. 
 The fertilizer recommendation system for various disease predictions are labor intensive and cost effective with drone and agricultural rovers.
 Deep Learning models classify and recommend the types of fertilizers based on the predicted diseases.
+
+open in Google Colab
+
+https://colab.research.google.com/drive/1WMqAHeMY2lLyqH4Jlv5PNwyRYtmjjSSG?authuser=1#scrollTo=YwSoungWcikP
+
