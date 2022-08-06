@@ -11,3 +11,10 @@ open in Google Colab
 
 https://colab.research.google.com/drive/1WMqAHeMY2lLyqH4Jlv5PNwyRYtmjjSSG?authuser=1#scrollTo=YwSoungWcikP
 
+Fruit Dataset:
+Fruit.h5:
+https://drive.google.com/file/d/1fDZGHAJ9YyJrxH5QSV8S3ilFfypNmzkS/view?usp=sharing
+
+Veg-Dataset:
+Vegetable.h5:
+https://drive.google.com/file/d/1pKnH5ykKGUpREemdYUCsmOWMmweeYM8k/view?usp=sharing
